@@ -4,16 +4,13 @@
 
 This DeepTrackAI repository provides a copy of the **MNIST** dataset, a benchmark collection of handwritten digits originally created by Yann LeCun, Corinna Cortes, and Christopher J.C. Burges, available from the [Official MNIST Website](http://yann.lecun.com/exdb/mnist/).
 
-MNIST is one of the most widely used datasets for training and evaluating machine learning and deep learning models in computer vision.
-
-Each image is a grayscale depiction of a digit from 0 to 9, with an associated label. All images are 28×28 pixels in size. The dataset is split into a training set of 60,000 images and a test set of 10,000 images.
+Each image is a grayscale depiction of a digit from 0 to 9, with an associated label. MNIST is one of the most widely used datasets for training and evaluating machine learning and deep learning models in computer vision.
 
 ### Summary
 - **Number of images**: 70,000 (60,000 training, 10,000 test)  
-- **Image size**: 28×28 pixels  
-- **Color**: Grayscale  
+- **Image size**: 28 × 28 pixels  
+- **Image format**: 8-bit grayscale PNG
 - **Labels**: 10 classes (digits 0–9)  
-- **Format**: PNG, 8-bit per channel
 
 ---
 
