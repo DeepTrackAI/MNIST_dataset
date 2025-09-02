@@ -40,7 +40,7 @@ If you use this dataset in your research, please follow the licensing requiremen
         └── ...
 ```
 
-The number before the underscore indicates the image label (digit 0–9).
+Each filename begins with its class label (0–9), followed by a sequential numerical identifier.
 
 ---
 
