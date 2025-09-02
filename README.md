@@ -28,18 +28,19 @@ If you use this dataset in your research, please follow the licensing requiremen
 ## Dataset Structure
 
 ```bash
-/MNIST_dataset  
-  ├── train/          # Training images
-  │   ├── 0_xxxxxx.png
-  │   ├── 1_xxxxxx.png
-  │   └── ...
-  └── test/           # Test images
-      ├── 0_xxxxxx.png
-      ├── 1_xxxxxx.png
-      └── ...
+/MNIST_dataset
+└── mnist/
+    ├── train/          # Training images (labeled by filename)
+    │   ├── 0_000000.png
+    │   ├── 0_000001.png
+    │   └── ...
+    └── test/           # Test images (labeled by filename)
+        ├── 0_000000.png
+        ├── 0_000001.png
+        └── ...
 ```
 
-In each folder, the digit before the underscore in the filename corresponds to the image label.
+The number before the underscore indicates the image label (digit 0–9).
 
 ---
 
