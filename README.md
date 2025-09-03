@@ -61,7 +61,7 @@ cd MNIST_dataset
 If you use this dataset, please cite both the MNIST dataset and the reference article.
 
 ### Cite the dataset:
-LeCun Y, Cortes C, Burges CJC. *The MNIST Database of Handwritten Digits.* Retrieved from [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+LeCun Y, Cortes C, Burges CJC. *The MNIST Database of Handwritten Digits*. Retrieved from [yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 
 ```bibtex
 @misc{lecun1998mnist,
@@ -73,7 +73,7 @@ LeCun Y, Cortes C, Burges CJC. *The MNIST Database of Handwritten Digits.* Retri
 ```
 
 ### Cite the reference article:
-LeCun Y, Bottou L, Bengio Y, Haffner P. *Gradient-based learning applied to document recognition.* Proceedings of the IEEE, 86(11): 2278–2324 (1998). [DOI: 10.1109/5.726791](https://doi.org/10.1109/5.726791)
+LeCun Y, Bottou L, Bengio Y, Haffner P. *Gradient-based learning applied to document recognition*. Proceedings of the IEEE, 86(11): 2278–2324 (1998). [DOI: 10.1109/5.726791](https://doi.org/10.1109/5.726791)
 
 ```bibtex
 @article{lecun1998gradient,
