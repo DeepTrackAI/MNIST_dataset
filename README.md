@@ -93,4 +93,4 @@ LeCun Y, Bottou L, Bengio Y, Haffner P. *Gradient-based learning applied to docu
 
 ## License
 
-This replication dataset is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/), following the original licensing terms.
+This replication dataset is shared under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/), consistent with the original licensing terms.
